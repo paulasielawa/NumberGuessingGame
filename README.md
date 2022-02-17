@@ -10,5 +10,5 @@ The program should generate a random integer (random number) between 0 and 200 (
 
 The user shall be informed whether the guess is greater than or less than the unknown number
 
-Then a new reading must be made. This should continue until the player has guessed correctly. 
-This must then be notified together with the number of guesses that were made 
+Then a new reading  will be made. This should continue until the player has guessed correctly. 
+This will then be notified together with the number of guesses that were made. 
